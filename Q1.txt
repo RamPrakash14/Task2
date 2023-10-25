@@ -5,7 +5,7 @@ Document Object:
      1.The Document object represents the web page that is loaded in web browser
      2.We can access element by using HTML page element
      3.The Document object can  be accessed with a window.document
-     4.The Document object is a part of BOM (Browser Object Method) and DOM (Document Object Method)
+     4.The Document object is a part of BOM (Browser Object Model) and DOM (Document Object Model)
      5.The properties of document object can be used by title,body etc
      Example : document.title : return the title of the document
 
@@ -15,6 +15,6 @@ window object:
 1.The Window object is the topmost of the DOM (Document Object Method)hierachy.
 2.It represents the browser window that frames the display content of the webpage.
 3.The Window Object can be accessed the window only from window with a window.window
-4.The window is a part of BOM(Browser Object Method) and not and DOM (Document Object Method).
+4.The window is a part of BOM(Browser Object Model)  and not DOM (Document Object Model).
 5.The properties of the window object cannot accessed by the  document object.
 Example: window.innerHeight :  return the height of the content area of the browser
